@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning API's
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: codebyumar7@gmail.com
-- ⚡ Fun fact: One plus one is trwo
+- ⚡ Fun fact: One plus one is two
 
 ### Connect with me:
 <div id="badges">
@@ -34,4 +34,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/codebyumar)
+⭐️ From [Muhammad Umar](https://github.com/codebyumar)
