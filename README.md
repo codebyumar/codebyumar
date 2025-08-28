@@ -11,7 +11,7 @@
   <a href="https://github.com/codebyumar">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/u-ehsan-umar-7180492b1/">
+  <a href="https://www.linkedin.com/in/muhammad-umar-7180492b1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/codebyumar_">
